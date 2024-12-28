@@ -92,3 +92,7 @@ ICON_FILE_NOTIFICATION_ERROR = "autokey-status-error"
 
 # Set at the top of each entrypoint app
 USED_UI_TYPE = "headless"
+
+# Share parsed command line arguments between modules, Namespace object content 
+# set by argument_parser.py
+ARGS = None

@@ -788,7 +788,8 @@ class XInterfaceBase(threading.Thread, AbstractMouseInterface):
         (Un)Grab a specific hotkey in the given window
         """
         un = "" if grab else "un"
-        logger.debug("%sgrabbing hotkey: %r %r",
+        if common.ARGS.grabkey_logging:
+            logger.debug("%sgrabbing hotkey: %r %r",
                      un, modifiers, key)
         try:
             keycode = self.__lookupKeyCode(key)
