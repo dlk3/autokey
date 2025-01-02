@@ -29,6 +29,7 @@ Requires:	gnome-extensions-app
 Requires:	python3-dbus
 Requires:	python3-evdev
 Requires:	python3-file-magic
+Requires:	python3-pyudev
 Requires:	wmctrl
 Provides:	autokey = %{version}-%{release}
 %description common
