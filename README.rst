@@ -20,12 +20,11 @@ AutoKey
 
 About
 =====
-`AutoKey`_, a desktop automation utility for Linux and X11, formerly hosted on `Google`_, has been updated to run on Python 3.
+`AutoKey`_ is a desktop automation utility for Linux.
 
-**Important**: This is an X11 application and, as such, will not function correctly when Wayland is in use instead of Xorg.
+**Important**: This "unofficial" fork  of AutoKey allows it to run on GNOME desktops under Wayland.
 
-.. _AutoKey: https://github.com/autokey/autokey
-.. _Google: https://code.google.com/archive/p/autokey/
+.. _AutoKey ("official" version without Wayland support) : https://github.com/autokey/autokey
 
 Installation
 ============
@@ -34,17 +33,17 @@ Installation
 
 For detailed installation instructions, please visit the `Installing`_ page in our wiki.
 
-.. _Installing: https://github.com/autokey/autokey/wiki/Installing
+.. _Installing: https://github.com/dlk3/autokey-wayland/wiki/Installing
 
 Documentation
 =============
-AutoKey documentation is available `here <https://autokey.github.io/index.html>`__ and, for versions prior to 0.96.0, `here <https://autokey.github.io/autokey/index.html>`__. Example code and explanations for how AutoKey works can be found in our `wiki`_ and, in particular, on the `Features`_ and `Example Scripts`_ pages. Additional information can be found by searching `Stack Overflow`_ and `GitHub`_.
+AutoKey documentation is available `here <https://autokey-wayland.github.io/index.html>`__ and, for versions prior to 0.96.0, `here <https://autokey.github.io/autokey/index.html>`__. Example code and explanations for how AutoKey works can be found in our `wiki`_ and, in particular, on the `Features`_ and `Example Scripts`_ pages. Additional information can be found by searching `Stack Overflow`_ and `GitHub`_.
 
-.. _wiki: https://github.com/autokey/autokey/wiki
-.. _Features: https://github.com/autokey/autokey/wiki/Features
-.. _Example Scripts: https://github.com/autokey/autokey/wiki/Example-Scripts
+.. _wiki: https://github.com/dlk3/autokey-wayland/wiki
+.. _Features: https://github.com/dlk3/autokey-wayland/wiki/Features
+.. _Example Scripts: https://github.com/dlk3/autokey-wayland/wiki/Example-Scripts
 .. _Stack Overflow: https://stackoverflow.com/questions/tagged/autokey
-.. _GitHub: https://github.com/search?l=Python&q=autokey&ref=cmdform&type=Repositories
+.. _GitHub: https://github.com/search?l=Python&q=autokey-wayland&ref=cmdform&type=Repositories
 
 Support
 =======
@@ -73,11 +72,11 @@ Here are some possible examples of the types of information you might need to pr
 
 If you're not sure your issue is a bug or you'd like help with reporting it, you can post about it first on one of the `platforms used by our community`_ and we'll assist you.
 
-.. _GitHub Issue Tracker: https://github.com/autokey/autokey/issues
-.. _AutoKey error message: https://github.com/autokey/autokey/wiki/Troubleshooting#autokey-error-message
-.. _AutoKey traceback: https://github.com/autokey/autokey/wiki/Troubleshooting#autokey-traceback
-.. _Python traceback: https://github.com/autokey/autokey/wiki/Troubleshooting#python-traceback
-.. _platforms used by our community: https://github.com/autokey/autokey/wiki/Community
+.. _GitHub Issue Tracker: https://github.com/dlk3/autokey-wayland/issues
+.. _AutoKey error message: https://github.com/dlk3/autokey-wayland/wiki/Troubleshooting#autokey-error-message
+.. _AutoKey traceback: https://github.com/dlk3/autokey-wayland/wiki/Troubleshooting#autokey-traceback
+.. _Python traceback: https://github.com/dlk3/autokey-wayland/wiki/Troubleshooting#python-traceback
+.. _platforms used by our community: https://github.com/dlk3/autokey-wayland/wiki/Community
 
 Contributing or modifying the source
 ====================================
@@ -85,13 +84,13 @@ Contributing or modifying the source
 Pull requests are welcome from anyone who would like to modify or contribute to the source code. Useful tips for working with and testing the code can be found in the `CONTRIBUTORS.rst`_ file. AutoKey also participates in `CodeTriage`_, where members can sign up to receive a periodic email with a link to an open AutoKey issue that needs help.
 
 .. _CodeTriage: https://www.codetriage.com/autokey/autokey
-.. _CONTRIBUTORS.rst: https://github.com/autokey/autokey/blob/master/CONTRIBUTORS.rst
+.. _CONTRIBUTORS.rst: https://github.com/dlk3/autokey-wayland/blob/master/CONTRIBUTORS.rst
 
 Changelog
 =========
 Our `changelog`_ is the best source of information for what's new and fixed in each release.
 
-.. _changelog: https://github.com/autokey/autokey/blob/master/CHANGELOG.rst
+.. _changelog: https://github.com/dlk3/autokey-wayland/blob/master/CHANGELOG.rst
 
 License
 =======
