@@ -1,4 +1,4 @@
-<p style="border-width:6px; border-style:solid; border-color:#FF0000; padding: 1em;">This repository contains a fork of the AutoKey utility which has been modified to support the GNOME/Wayland environment in addition to the X11 environment currently supported by [the "official" version](https://github.com/autokey/autokey).</p>
+<table><tr><td style="border: 1px solid rgb:(160 160 160); padding: 4px 6px;">This repository contains a fork of the AutoKey utility which has been modified to support the GNOME/Wayland environment in addition to the X11 environment currently supported by <a href="https://github.com/autokey/autokey">the "official" version</a>.</td></tr></table>
 
 # AutoKey
 
