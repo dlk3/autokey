@@ -12,10 +12,15 @@ Important misc changes
 - Bump action versions in python-test.yml to satisfy part of issue #963.
 - Bump Python version in build.yml to satisfy part of issue #964.
 - Bump Python versions in python-test.yml to satisfy part of issue #964.
+- Bump Python versions in setup.cfg to satisfy issue #969.
+- Bump Python versions in setup.py to satisfy issue #970.
+- Bump to all GitHub-supported Python versions to satisfy issue #986.
+- Add `pyasyncore` dependency to `setup.py` for use in Python 3.12 to satisfy issues #946 and #964.
 
 Other
 +++++
 - Add `show_recent_script_errors_dialog` to display errors with millisecond precision.
+- Add **Environment** as an issue type in the `bug.yml` file.
 
 Version 0.96.0
 ============================
