@@ -3,8 +3,8 @@ This repository contains a fork of the AutoKey utility which has been modified t
 # AutoKey
 
 [![](https://img.shields.io/badge/IRC-%23autokey%20on%20Libera.Chat-blue.svg)](https://web.libera.chat/#autokey)
-[![](https://badges.gitter.im/autokey/autokey.svg)](https://gitter.im/autokey/autokey Join the chat at https://gitter.im/autokey/autokey)
-[![](http://img.shields.io/badge/stackoverflow-autokey-blue.svg)](https://stackoverflow.com/questions/tagged/autokey Ask and answer questions on StackOverflow)
+[![](https://badges.gitter.im/autokey/autokey.svg)](https://gitter.im/autokey/autokey "Join the chat at https://gitter.im/autokey/autokey")
+[![](http://img.shields.io/badge/stackoverflow-autokey-blue.svg)](https://stackoverflow.com/questions/tagged/autokey "Ask and answer questions on StackOverflow")
 [![](https://www.codetriage.com/autokey/autokey/badges/users.svg)](https://www.codetriage.com/autokey/autokey)
 
 ## About
