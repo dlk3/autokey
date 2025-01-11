@@ -13,9 +13,12 @@
 <s><b>Important</b>: This is an X11 application and, as such, will not function correctly when Wayland is in use instead of Xorg.</s>
 
 ## Installation
-**Important**: Please remove previous installations of AutoKey fully before installing!
 
-For detailed installation instructions, please visit the [Installing](https://github.com/autokey/autokey/wiki/Installing) page in our wiki.
+Please see the [wayland-install.md](https://github.com/dlk3/autokey/blob/main/wayland_install.md) page for instructions on installing the version of AutoKey provided by this repository.
+
+<s><b>Important</b>: Please remove previous installations of AutoKey fully before installing!</s>
+
+<s>For detailed installation instructions, please visit the <a href="https://github.com/autokey/autokey/wiki/Installing">Installing</a> page in our wiki.</s>
 
 
 ## Documentation
